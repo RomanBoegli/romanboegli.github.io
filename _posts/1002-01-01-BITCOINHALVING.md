@@ -4,4 +4,4 @@ layout: post
 
 ## Bitcoin Halving
 
-![orangecut](images/orangecut.jpg)
+![orangecut](assets/orangecut.jpg)
