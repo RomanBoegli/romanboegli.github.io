@@ -4,7 +4,8 @@ layout: post
 
 ## Blockchain
 
-* eine Art Datenbank
-* jede Geschäftsstelle besitzt eigene Kopie
-* 1 Block = 1 Datenpaket
-* Minenbetreiber *suchen* Blöcke
+* kinda' database
+* every branch office has its own copy
+* 1 block = 1 data package
+* chronological linkage
+* miners are *seeking* new blocks
