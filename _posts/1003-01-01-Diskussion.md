@@ -2,9 +2,8 @@
 layout: post
 ---
 
-## Diskussion
+## Discussion
 
-* Ist absolute Knappheit bei Geld etwas Gutes?
-* Was könnte das BTC Halving für Auswirkungen haben?
-* Könnte das 2'300'000'000'000 $ Hilfspaket für      
-die USA negative Folgen haben?
+* Should money be truly scarce?
+* Do 2.3T$ of direct help bear danger?
+* What are possible impacts of the btc halving?
