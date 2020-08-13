@@ -2,7 +2,7 @@
 layout: post
 ---
 
-## Block
+## Blocks
 
 * ambitious requirements
 
@@ -10,3 +10,6 @@ layout: post
 
 * reward: freshly *"printed"* Bitcoins     
 **(block reward)**
+
+
+![chart](assets/chart.png)
