@@ -9,9 +9,3 @@ layout: post
 * 1 block = 1 data package
 * chronological linkage
 * miners are *seeking* new blocks
-* ambitious requirements
-
-> Toss ten dices simultaneously until seven dices show a [6].
-
-* reward: freshly *"printed"* Bitcoins     
-**(block reward)**
