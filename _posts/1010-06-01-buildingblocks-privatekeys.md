@@ -6,4 +6,4 @@ layout: post
 
 * public key & private key
 
-![pubprivkey](assets/symmetricasymmetric.jpg)
+![pubprivkey](assets/symmetricasymmetric.png)
