@@ -10,6 +10,3 @@ layout: post
 
 * reward: freshly *"printed"* Bitcoins     
 **(block reward)**
-
-
-![chart](assets/chart.png)
